@@ -10,7 +10,7 @@ Design: https://www.figma.com/file/P72Fq5yxWsV6B7VmQMz702/Explorer-Stage-03-Proj
 No módulo 03, parte 02, foram vistos os seguintes tópicos:
 
 - Introdução à responsividade;
--  o HTML;
+- Estruturando o HTML;
 - Regra mobile-first;
 - Regra das unidades de medidas flexíveis;
 - Continuando os ajustes de textos;
